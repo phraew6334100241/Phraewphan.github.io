@@ -13,9 +13,10 @@ body{
 ul li {
     width: 350px;
     line-height: 40px;
-    margin: auto;
-    display:block;
     position: relative;
+    display:block;
+    margin: auto;
+    margin-top:2em;
     box-shadow: 10px 6px 4px rgb(75, 74, 74);
     
 }
