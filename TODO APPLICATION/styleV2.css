@@ -15,7 +15,7 @@ ul li {
     line-height: 40px;
     position: relative;
     display:block;
-    margin-left: -10px ;
+    margin-left:0px ;
     margin-top:2em;
     box-shadow: 10px 6px 4px rgb(75, 74, 74);
     
