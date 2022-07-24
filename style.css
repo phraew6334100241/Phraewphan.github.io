@@ -121,7 +121,7 @@ body {
 .card .ds-info {
   position: absolute;
   margin: auto;
-  top: 95px;
+  top: 90px;
   bottom: 0;
   right: 0;
   left: 0;
@@ -158,7 +158,7 @@ body {
   right: 0;
   left: 0;
   width: 200px;
-  height: 135px;
+  height: 125px;
   animation: mvBottom 1.5s;
 }
 .card .ds-skill h6 {
