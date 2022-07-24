@@ -16,7 +16,7 @@ ul li{
     position: relative;
     display:block;
     margin: auto;
-    margin-top:2em;
+    margin-top:1em;
     box-shadow: 10px 6px 4px rgb(75, 74, 74);
     
 }
@@ -28,7 +28,6 @@ ul li span{
     width: 40px;
 
 }
-
 button{
     background-color: blue;
     border-radius: 10px;
