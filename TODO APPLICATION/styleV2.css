@@ -17,6 +17,7 @@ ul li {
     display:block;
     margin: auto;
     margin-top:2em;
+    padding: 1em;
     box-shadow: 10px 6px 4px rgb(75, 74, 74);
     
 }
