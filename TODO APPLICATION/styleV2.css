@@ -17,7 +17,6 @@ ul li {
     position: relative;
     display:block;
     text-align: center;
-    display: inline-block;
     box-shadow: 10px 6px 4px rgb(75, 74, 74);
     
 }
