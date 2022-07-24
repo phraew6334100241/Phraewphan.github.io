@@ -24,7 +24,7 @@ body {
   bottom: 0;
   left: 0;
   width: 250px;
-  height: 400px;
+  height: 450px;
   border-radius: 10px;
   box-shadow: 0 10px 25px 5px rgba(0, 0, 0, 0.2);
   background: #151515;
@@ -121,7 +121,7 @@ body {
 .card .ds-info {
   position: absolute;
   margin: auto;
-  top: 105px;
+  top: 95px;
   bottom: 0;
   right: 0;
   left: 0;
