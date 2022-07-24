@@ -10,9 +10,9 @@ body{
 #txt{
     width: 300px;
 }
-ul li {
+ul li{
     width: 350px;
-    line-height: 30px;
+    line-height: 40px;
     position: relative;
     display:block;
     margin: auto;
